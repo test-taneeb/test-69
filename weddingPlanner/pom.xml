@@ -53,4 +53,9 @@
 	</dependency>
 	
     </dependencies>
+
+	<properties>
+  <sonar.organization>test-taneeb</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
